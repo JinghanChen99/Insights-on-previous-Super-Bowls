@@ -1,0 +1,15 @@
+
+Modules or libraries used for the analysis and visualization:
+1)Pandas
+2)Numpy
+3)matplotlib
+4)seaborn (conda install seaborn)
+To execute the your data_analysis.py/analysis_and_visual.ipynb file below
+1)Go to the terminal
+2)
+Change the directory to the Data Analysis folder (cd)3)
+Run .py file (python3 data_analysis.py)
+4)Visualizations and data analysis can also be viewed in analysis_and_visual.ipynb file
+(Use the step (1) and (2), then type in jupyter notebook into the terminal and press enter, it will lead you to the file page)
+5) 
+Run each cell (shift+enter)
